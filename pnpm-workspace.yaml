@@ -157,6 +157,8 @@ catalogs:
     ts-json-schema-generator: ^2.4.0
     volar-service-prettier: ^0.0.64
     volar-service-yaml: ^0.0.64
+  conflicts_prod_h12_3_2:
+    markdown-it: ^12.3.2
 
 onlyBuiltDependencies:
   - cypress
